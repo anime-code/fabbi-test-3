@@ -1,5 +1,5 @@
 <?php
-$array = [1, 5, 4, 7, 9, 0, -10, 13, 93, 14, 15];
+$array = [ 5, 4, 7, 9, -10, 13, 93, 14, 15];
 rsort($array);
 $data = null;
 $newArray = [];
